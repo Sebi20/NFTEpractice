@@ -1,0 +1,60 @@
+h1{
+
+	color:rgb(255,165,0);
+	text-align:center;
+	font-size:50px;
+	text-align:fixed;
+}
+
+h2{
+
+	color:rgb(255,165,0);
+	text-align:center;
+	font-size:50px;
+	text-align:fixed;
+}
+body{
+	background-image: url(https://media.giphy.com/media/tlEuKsnMNSg2A/giphy.gif);
+	background-size: cover;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul.topnav{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	background-color:#333;
+}
+ul.topnav li {
+	float:left;
+}
+ul.topnav li a{
+	display:inline-block;
+	color:red;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+	transition:0.3s;
+	font-size:20px;
+}
+
+ul.topnav li a: hover{
+	background-color: #555;
+}
+
+
+ul.topnav li.icon{
+	display:none;
+}
